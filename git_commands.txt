@@ -5,3 +5,6 @@ git status
 git commit -m "testing files added"                                        
 rm testing.py    
 git restore testing.py   
+git remote add origin https://github.com/sayalitikar/git...
+git remote -v
+git push origin master 
